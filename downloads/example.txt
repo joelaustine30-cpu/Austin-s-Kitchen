@@ -1,0 +1,3 @@
+This is an example downloadable file for Austin's Kitchen.
+
+Replace this file (downloads/example.txt) with whatever you want visitors to open or download.
